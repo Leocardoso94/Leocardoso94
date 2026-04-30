@@ -1,5 +1,3 @@
-# leocardoso94
-
 ```bash
 $ whoami
 Leonardo Cardoso, software engineer in São Paulo 🇧🇷
